@@ -120,8 +120,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-- E-Mail ID : [Deep Shah](mailto:shahdeep1406@gmail.com)
-- GitHub : [Deep Shah](https://github.com/DeepShah1406)
+- 📧 Email: [shahdeep1406@gmail.com](mailto:shahdeep1406@gmail.com)
+- 🐙 GitHub: [DeepShah1406](https://github.com/DeepShah1406)
+- 💼 LinkedIn: [deepshah1406](https://www.linkedin.com/in/deepshah1406)
 
 ---
 
