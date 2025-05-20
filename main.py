@@ -303,7 +303,9 @@ st.title("🧠 Mental Health Chatbot")
 
 #st.image("https://img.freepik.com/premium-vector/mental-health-awareness-month-take-care-your-body-take-care-your-health-increase-awareness_758894-821.jpg?w=1380", use_column_width=True)
 
-st.image("https://static.vecteezy.com/system/resources/previews/039/630/872/large_2x/may-is-mental-health-awareness-month-diversity-silhouettes-of-adults-and-children-of-different-nationalities-and-appearances-colorful-people-contour-in-flat-style-vector.jpg", use_column_width=True)
+st.image("D:\Final Project\PythonDemoProject3\images\may-is-mental-health-awareness-month-diversity-silhouettes-of-adults-and-children-of-different-nationalities-and-appearances-colorful-people-contour-in-flat-style-vector.jpg")
+
+#st.image("https://static.vecteezy.com/system/resources/previews/039/630/872/large_2x/may-is-mental-health-awareness-month-diversity-silhouettes-of-adults-and-children-of-different-nationalities-and-appearances-colorful-people-contour-in-flat-style-vector.jpg", use_column_width=True)
 #st.image("https://static.vecteezy.com/system/resources/previews/040/941/494/non_2x/may-is-mental-health-awareness-month-banner-with-silhouettes-of-diverse-people-and-green-ribbon-women-and-men-of-different-ages-religions-and-races-design-for-info-importance-psychological-state-vector.jpg", use_column_width=True)
 #st.image("https://static.vecteezy.com/system/resources/previews/038/147/547/non_2x/may-is-mental-health-awareness-month-banner-horizontal-design-with-man-women-children-old-people-silhouette-in-flat-style-informing-about-importance-of-good-state-of-mind-well-being-presentation-vector.jpg", use_column_width=True)
 
