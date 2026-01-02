@@ -59,6 +59,12 @@ The bot is designed to support users by offering not only information but also c
 
 ---
 
+## **⭐ Star This Project**
+
+If you find this project helpful, please consider giving it a star! Contributions are also welcome - see the [Contributing](#contributing) section below.
+
+---
+
 ## **How to Run Locally**
 
 ### **Prerequisites**
@@ -116,7 +122,17 @@ The bot is designed to support users by offering not only information but also c
 
 ## **Contributing**
 
-If you’d like to contribute to the project, feel free to fork this repository, make your changes, and submit a pull request.
+⭐ **If you find this project helpful, please consider giving it a star!**
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** this repository
+2. Create a new branch for your feature (`git checkout -b feature/YourFeature`)
+3. Make your changes and commit them (`git commit -m 'Add some feature'`)
+4. Push to your branch (`git push origin feature/YourFeature`)
+5. Open a **Pull Request**
+
+Feel free to open issues for bug reports, feature requests, or questions!
 
 ---
 
