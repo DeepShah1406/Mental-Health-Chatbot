@@ -51,6 +51,14 @@ The bot is designed to support users by offering not only information but also c
 
 ---
 
+## **Screenshots**
+
+<img src="/images/screen_shot_1.png" />
+<img src="/images/screen_shot_2.png" />
+<img src="/images/screen_shot_3.png" />
+
+---
+
 ## **How to Run Locally**
 
 ### **Prerequisites**
